@@ -1,0 +1,3 @@
+# commands...
+
+GOOS=windows GOARCH=amd64 go build -o mychat.exe
